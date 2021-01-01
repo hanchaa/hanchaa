@@ -8,6 +8,7 @@
 # I'm 🙋‍♂️
 - majoring in Computer Science & Engineering at Korea Univ. (Junior)
 - working on ARA project
+- doing lab intern at ESCA lab during 2021 winter vacation
 
 # Studying 📖
 - desktop app using Electron
