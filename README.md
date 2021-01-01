@@ -16,5 +16,5 @@
 - RISC-V computer system
 
 # Misc 🗂
-[![github_status](https://github-readme-stats.vercel.app/api?username=hanchaa)](https://github.com/hanchaa)
+[![github_status](https://github-readme-stats.vercel.app/api?username=hanchaa&show_icons=true)](https://github.com/hanchaa)
 [![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hanchaa)](https://solved.ac/hanchaa)
