@@ -11,8 +11,9 @@
 - doing lab intern at ESCA lab during 2021 winter vacation
 
 # Studying 📖
-- desktop app using Electron
-- frontend using Typescript, React, Redux
+- Desktop app using Electron
+- Frontend using Typescript, React, Redux
+- Backend using Firebase
 - RISC-V computer system
 
 # Misc 🗂
