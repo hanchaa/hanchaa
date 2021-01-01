@@ -16,4 +16,4 @@
 
 # Misc 🗂
 [![github_status](https://github-readme-stats.vercel.app/api?username=hanchaa)](https://github.com/hanchaa)
-![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hanchaa)
+[![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hanchaa)](https://solved.ac/hanchaa)
