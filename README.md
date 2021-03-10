@@ -7,7 +7,8 @@
 
 # I'm 🙋‍♂️
 - majoring in Computer Science & Engineering at Korea Univ. (Junior)
-- working on ARA project
+- working on [ARA](https://github.com/ARA-developer/ARA) project
+- working on [TART](https://github.com/hyp3rflow/TART) project
 - doing lab intern at ESCA lab during 2021 winter vacation
 
 # Studying 📖
