@@ -9,7 +9,7 @@
 - majoring in Computer Science & Engineering at Korea Univ. (Junior)
 - working on [ARA](https://github.com/ARA-developer/ARA) project
 - working on [Penso](https://github.com/PensoTeam) project
-- doing lab intern at ESCA lab during 2021 winter vacation
+- done lab intern at ESCA lab during 2021 winter vacation
 
 # Studying 📖
 - Desktop app using Electron
