@@ -3,7 +3,6 @@
 ### Juhan Cha
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanchaa@gmail.com)](mailto:hanchaa@gmail.com)
 [![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/juhan_dev/)](https://www.instagram.com/juhan_dev)
-[![Blog Badge](https://img.shields.io/badge/Blog-black?style=falt-suqre&logo=github&logoColor=white&link=https://github.io/hanchaa)](https://github.io/hanchaa)
 
 # I'm 🙋‍♂️
 - majoring in Computer Science & Engineering at Korea Univ. (Junior)
