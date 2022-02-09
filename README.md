@@ -5,10 +5,11 @@
 [![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/juhan_dev/)](https://www.instagram.com/juhan_dev)
 
 # I'm 🙋‍♂️
-- majoring in Computer Science & Engineering at Korea Univ. (Junior)
+- majoring in Computer Science & Engineering at Korea Univ. (Senior)
 - working on [ARA](https://github.com/ARA-developer/ARA) project
 - working on [Penso](https://github.com/PensoTeam) project
-- done lab intern at ESCA lab during 2021 winter vacation
+- done lab intern at [ESCA](https://esca.korea.ac.kr) lab during 2021 winter vacation
+- doing lab inter at [MLV](https://mlv.korea.ac.kr) lab during 2022 winter vacation
 
 # Studying 📖
 - Desktop app using Electron
