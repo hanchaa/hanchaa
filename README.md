@@ -9,7 +9,7 @@
 - working on [ARA](https://github.com/ARA-developer/ARA) project
 - working on [Penso](https://github.com/PensoTeam) project
 - done lab intern at [ESCA](https://esca.korea.ac.kr) lab during 2021 winter vacation
-- doing lab inter at [MLV](https://mlv.korea.ac.kr) lab since 2022
+- in BS. & MS. intergrated course at [MLV](https://mlv.korea.ac.kr) lab since 2022 Fall
 
 # Studying 📖
 - Desktop app using Electron
