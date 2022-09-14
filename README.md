@@ -16,7 +16,6 @@
 - 3D Object Detection for Autonomous Driving
 - Desktop app using Electron
 - Frontend using Typescript, React, Redux
-- Backend using Firebase
 
 # Misc 🗂
 [![github_status](https://github-readme-stats.vercel.app/api?username=hanchaa&show_icons=true)](https://github.com/hanchaa)
