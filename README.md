@@ -2,10 +2,9 @@
 
 ### Juhan Cha
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanchaa@gmail.com)](mailto:hanchaa@gmail.com)
-[![Instagram Bdage](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/juhan_dev/)](https://www.instagram.com/juhan_dev)
 
 # I'm 🙋‍♂️
-- majoring in Computer Science & Engineering at Korea Univ. (Senior)
+- major in Computer Science & Engineering at Korea Univ.
 - working on [ARA](https://github.com/ARA-developer/ARA) project
 - working on [Penso](https://github.com/PensoTeam) project
 - done lab intern at [ESCA](https://esca.korea.ac.kr) lab during 2021 winter vacation
