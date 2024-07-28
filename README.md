@@ -8,7 +8,7 @@
 - worked on [ARA](https://github.com/ARA-developer/ARA) project
 - done lab intern at [ESCA](https://esca.korea.ac.kr) lab during 2021 winter vacation
 - graduated BS. & MS. intergrated course at [MLV](https://mlv.korea.ac.kr) lab in Aug 2024
-- doing an internship at [42dot](https://42dot.ai) as computer vision engineer since Apr 2024
+- doing an internship at [42dot](https://42dot.ai) as a computer vision engineer since Apr 2024
 
 # Studying 📖
 - Open Vocabulary Object Detection
